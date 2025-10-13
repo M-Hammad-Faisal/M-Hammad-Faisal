@@ -4,7 +4,6 @@
 <p align="center"> 🎉 I'm Muhammad Hammad Faisal, an avid Software Engineer on a mission to automate, innovate, and craft delightful digital experiences. 🌈 </p>
 
 ## About Me
-- 💼 Currently working as a Software Automation Engineer at [Arbisoft](https://www.arbisoft.com/).
 - 🤖 Passionate about automation and contributing to open-source projects.
 - 💻 Proficient in Python, Java, Django, Django DRF, React, and modern web technologies.
 - 🚀 Always eager to learn and experiment with cutting-edge technologies.
