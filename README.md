@@ -1,39 +1,37 @@
 # Muhammad Hammad Faisal
 
-**QA & Browser Automation Engineer** · Playwright · Patchright · Anti-Detection Systems
+**Software Engineer** · Automation, Web Extraction & Reliability · TypeScript · Python
 
-I build production-grade test automation frameworks and stealth scraping pipelines. My work sits at the intersection of browser automation and bot-detection evasion — writing systems that operate reliably at scale without getting blocked.
+I build automation systems that hold up in production: browser automation, web data pipelines, and the backend services and CI around them. 3+ years at **Arbisoft** across two client products, and I publish technical content at **[Code Mage](https://code-mage.dev)**.
 
-Currently shipping client work at **Arbisoft** and publishing technical content at **[Code Mage](https://code-mage.dev)**.
+- Cut a 100+ file test suite's runtime from **8 hours to 2** with parallel execution and a distributed Selenium Grid
+- Consolidated **23 integrations** under one architecture within a 2-week deadline
+- Run bots across **thousands of accounts with zero lockouts** using a state-based credential rotation system
+- Built a **FastAPI** microservice for PDF data extraction that several projects now use
 
 ---
 
 ## What I Do
 
-- **Stealth Scraping & Anti-Detection** — Fingerprint spoofing, TLS fingerprint rotation, human behavior simulation, CAPTCHA bypass (2Captcha), proxy management, and credential cycling using Patchright and Playwright.
-- **Test Automation** — E2E frameworks across Playwright, WebdriverIO, Cypress, Selenium, and Appium. Page Object Model, parallel execution, CI/CD integration.
-- **Framework Architecture** — TypeScript-strict codebases with ESLint, Prettier, GitHub Actions pipelines, sharded test runs, and reusable fixture systems.
-
----
-
-## Production Work
-
-**Zuub** — Built and maintained web scraping pipelines with anti-detection systems, CAPTCHA bypass, and credential management at scale using Playwright and Patchright.
-
-**FixAlert** — Reduced test suite runtime significantly by implementing parallel execution and Selenium Grid, improving CI feedback cycles.
+- **Web Data & Browser Automation**: Playwright, Patchright and Puppeteer bots with login flows, CAPTCHA handling, session and credential management, and validated, schema-checked output.
+- **Test Infrastructure**: End-to-end frameworks across Playwright, WebdriverIO, Cypress, Selenium and Appium. Page Object Model, parallel and sharded runs, CI gating on GitHub Actions.
+- **Backend & Architecture**: TypeScript and Python services with FastAPI, Django and PostgreSQL. Abstraction layers that turn a framework migration into a one-file change.
 
 ---
 
 ## Featured Projects
 
+### [`envguard`](https://github.com/M-Hammad-Faisal/envguard)
+A local-first Go CLI that encrypts a project's `.env` file so teams can share secrets through Git, and keeps hardcoded secrets out of Git history. Single offline binary.
+
 ### [`stealth-scraper-playwright`](https://github.com/M-Hammad-Faisal/stealth-scraper-playwright)
-Production-grade stealth scraper built with Patchright. Implements six anti-detection techniques: fingerprint spoofing, human behavior simulation, TLS fingerprint rotation, request header normalization, proxy rotation, and Canvas/WebGL noise injection. Strict TypeScript, ESLint v9 flat config, GitHub Actions CI.
+Production-grade web scraper built with Patchright and Playwright, with proxy rotation and human-like browsing behavior. Strict TypeScript, ESLint v9 flat config, GitHub Actions CI.
 
 ### [`playwright-saucedemo-example`](https://github.com/M-Hammad-Faisal/playwright-saucedemo-example)
-Full Playwright test suite for SauceDemo — 22 tests across three spec files, Page Object Model architecture, auth fixture, GitHub Actions with browser matrix and sharding. Companion repo to the [Code Mage Playwright Tutorial Series](https://code-mage.dev/tutorial).
+Full Playwright test suite for SauceDemo with 22 tests across three spec files, Page Object Model, an auth fixture, and GitHub Actions with a browser matrix and sharding. Companion repo to the [Code Mage Playwright tutorial series](https://code-mage.dev/tutorial).
 
 ### [`json-compare`](https://github.com/M-Hammad-Faisal/json-compare)
-GitHub-style JSON diff tool with semantic type-change detection, dark/light mode, and mobile support. Live at [m-hammad-faisal.github.io/json-compare](https://m-hammad-faisal.github.io/json-compare/).
+GitHub-style JSON diff tool with semantic type-change detection, dark and light mode, and mobile support. Live at [m-hammad-faisal.github.io/json-compare](https://m-hammad-faisal.github.io/json-compare/).
 
 ---
 
@@ -41,31 +39,27 @@ GitHub-style JSON diff tool with semantic type-change detection, dark/light mode
 
 | Category | Tools |
 |---|---|
+| **Languages** | TypeScript, JavaScript, Python, Go, Java |
+| **Backend** | FastAPI, Django, Node.js, PostgreSQL, Supabase |
 | **Browser Automation** | Playwright, Patchright, Puppeteer, WebdriverIO, Cypress, Selenium, Appium |
-| **Anti-Detection** | Fingerprint spoofing, TLS rotation, Canvas noise, proxy/credential cycling, CAPTCHA bypass |
-| **Languages** | TypeScript, JavaScript, Python, Java |
-| **Backend** | Django, FastAPI, Flask |
 | **Frontend** | React, Next.js, Tailwind CSS |
-| **CI/CD** | GitHub Actions, GitLab CI, Jenkins |
-| **Databases** | PostgreSQL, MySQL, SQLite, Supabase |
-| **Tools** | Docker, Postman, Bash |
+| **CI/CD & Cloud** | GitHub Actions, GitLab CI, Jenkins, Docker, Google Cloud |
+| **Tools** | Postman, Allure, Bash |
 
 ---
 
 ## Code Mage
 
-I write in-depth tutorials on test automation, web scraping, and anti-detection systems at **[code-mage.dev](https://code-mage.dev)**.
-
-28+ published chapters · Playwright tutorial series · Anti-detection deep dives
+I write in-depth tutorials on test automation and web data at **[code-mage.dev](https://code-mage.dev)**: 28+ published chapters across Playwright, WebdriverIO and Cypress.
 
 ---
 
 ## Connect
 
-- 💼 [Upwork](https://www.upwork.com/freelancers/~0164c063a73588775f) — Available for browser automation and scraping projects
 - 🔗 [LinkedIn](https://www.linkedin.com/in/m-hammad-faisal/)
+- 🌐 [Portfolio](https://m-hammad-faisal.github.io)
 - 📧 [hammadfaisal178@gmail.com](mailto:hammadfaisal178@gmail.com)
-- 🌐 [code-mage.dev](https://code-mage.dev)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~0164c063a73588775f): available for select automation and web data projects
 
 ---
 
